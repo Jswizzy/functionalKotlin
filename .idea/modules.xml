@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/filteringAndSorting/filteringAndSorting.iml" filepath="$PROJECT_DIR$/filteringAndSorting/filteringAndSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/funct.iml" filepath="$PROJECT_DIR$/funct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/withApply/withApply.iml" filepath="$PROJECT_DIR$/withApply/withApply.iml" />
     </modules>
   </component>
 </project>
